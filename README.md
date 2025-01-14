@@ -12,7 +12,9 @@ Admin : https://dev-admin.godigi.web.id
 Username : admin
 Password : admin
 
-Contact me if you want to buy : rafael110706@gmail.com
+Contact me if you want to buy : 
+Telegram : https://t.me/aiosignal (Most Active)
+WhatsApp : https://wa.me/62881080265601
 
 Check our video : https://youtu.be/lYSXY3_955Y
 
