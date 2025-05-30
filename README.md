@@ -52,7 +52,7 @@ Check our video : https://youtu.be/lYSXY3_955Y
   <li>Add chart 15s & 30day candle</li>
 </ul>
 
-<h4>2024-15-01 [Init App]</h4>
+<h4>2024-01-15 [Init App]</h4>
 <ul>
   <li>First app launched</li>
 </ul>
