@@ -2,21 +2,34 @@
 
 Hi, if you interested with binary options trading source code, you can check my app here :
 
-User : https://dev-biopsi.godigi.web.id/trading
+User : https://binerin.com
 
 You can join and create account, or use this account :
 Email : tester@gmail.com
 Password : 12345678
 
-Admin : https://dev-admin.godigi.web.id
-Username : admin
-Password : admin
+Admin : https://adm.binerin.com
+Username : binerindemo
+Password : 12345678
+
+Admin : https://partner.binerin.com
+Username : affiliate@gmail.com
+Password : 12345678
 
 Contact me if you want to buy : 
-Telegram : https://t.me/aiosignal (Most Active)
-WhatsApp : https://wa.me/62881080265601
+Telegram : https://t.me/aiosignal
 
 Check our video : https://youtu.be/lYSXY3_955Y
+=============================================================================
+
+<h3>Change Logs :</h3>
+<h4>2025-05-30 [New feature added]</h4>
+<ul>
+  <li>Affiliator Dashboard</li>
+  <li>Multiple pair on navbar</li>
+  <li>Fix some bugs</li>
+  <li>Improve style</li>
+</ul>
 
 <h3>Change Logs :</h3>
 <h4>2024-12-26 [New feature added]</h4>
