@@ -25,7 +25,8 @@ Check our video : https://youtu.be/lYSXY3_955Y
 <h3>Change Logs :</h3>
 <h4>2025-01-01 [New feature added]</h4>
 <ul>
-  <li>Added new crypto pairs (BTC, EXP, ETC, BSC, etc.)</li>
+  <li>🔥 Added new crypto pairs (BTC, EXP, ETC, BSC, etc.)</li>
+  <li>🔥 Search asset (new feature)</li>
 </ul>
 
 <h3>Change Logs :</h3>
