@@ -43,16 +43,18 @@ Contact me via Telegram: [https://t.me/aiosignal](https://t.me/aiosignal)
 
 ## 📦 Change Logs
 
+### 📅 2025-06-01
+- 🔥 Added new crypto pairs (BTC, EXP, ETC, BSC, etc.)  
+- 🔍 Asset search functionality  
+- 🔊 Sounds added for trade submission and winning  
+
 ### 📅 2025-05-30
 - ➕ Affiliator Dashboard  
 - ➕ Multiple trading pairs in the navbar  
 - 🛠 Bug fixes  
 - 🎨 Style improvements  
 
-### 📅 2025-01-01
-- 🔥 Added new crypto pairs (BTC, EXP, ETC, BSC, etc.)  
-- 🔍 Asset search functionality  
-- 🔊 Sounds added for trade submission and winning  
+
 
 ### 📅 2024-12-26
 - ✅ Google Login integration  
